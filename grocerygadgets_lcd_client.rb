@@ -158,7 +158,7 @@ while true
       end
     end
 
-  #rescue
+  rescue
   end
 end
 
