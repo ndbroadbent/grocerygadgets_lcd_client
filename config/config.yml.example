@@ -3,3 +3,5 @@ grocerygadgets:
   group: <<GROUP>>
   password: <<PASSWORD>>
 
+lcd_devnode: "/dev/lcddisplay"
+
