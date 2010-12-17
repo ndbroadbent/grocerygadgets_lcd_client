@@ -1,0 +1,15 @@
+h2. A www.grocerygadgets.com client in Ruby.
+
+h3. Designed for use on a thin client PC, 20x2 LCD Screen and USB barcode scanner.
+
+When something is about to run out or goes in the bin,
+just scan the barcode and it's added to an online shopping list at grocerygadgets.com.
+You can type an item in manually, too.
+The shopping list is then automatically synced to all of the flatmate's mobile devices using
+the grocery gadgets iPhone or Android app.
+
+Is it actually useful? We'll see... But at least it's helped me learn a bit more about UI design on a 20x2 LCD. I never knew an input box could take so much work.
+
+
+Barcode search powered by Google Base.
+
