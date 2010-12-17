@@ -62,7 +62,7 @@ class DSP420
     #puts title.ljust(20)
 
     # Returns string to the method caller when the enter key is pressed.
-    # Returns false if escape key is pressed.
+    # Returns empty string if escape key is pressed.
     while true
       prompt_str = "? " + (cursor > 0 ? value[0..(cursor-1)] : '') + "_" + value[(cursor+1)..-1].to_s
 
