@@ -8,8 +8,5 @@ You can type in an item manually, too.
 The shopping list is then automatically synced to all of your flatmate's mobile devices using
 the grocery gadgets iPhone or Android app.
 
-Is it actually useful? We'll see... But at least it's helped me learn a bit more about UI design on a 20x2 LCD.
-
-
 Barcode search powered by Google Base.
 
